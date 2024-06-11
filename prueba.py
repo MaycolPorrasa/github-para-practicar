@@ -1,2 +1,2 @@
 print("Hello world!")
-print("Prueba de edit numero 2")
+print("Prueba de edit 2")
